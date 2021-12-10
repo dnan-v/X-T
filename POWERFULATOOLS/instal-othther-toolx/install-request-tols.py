@@ -1,0 +1,16 @@
+import os
+
+os.system("pip install socket")
+os.system("pip install faker")
+os.system("pip install proxy")
+os.system("pip install os")
+os.system("pip install time")
+os.system("pip install random")
+os.system("pip install _socket")
+os.system("pip install re")
+os.system("pip install mechanize")
+os.system("pip install sys")
+os.system("pip install nmap")
+os.system("pip install requests")
+os.system("pip install json")
+os.system("pip install put")
